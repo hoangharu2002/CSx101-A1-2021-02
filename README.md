@@ -1,3 +1,3 @@
 # CSx101-A1-2021-02
-for learning python \n
-!!!
+for learning python !!!
+hi there
